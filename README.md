@@ -128,4 +128,4 @@ B.Tech Computer Science & Engineering (AI & ML)
 
 Geeta University, Panipat
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/devanshuthakral
